@@ -11,7 +11,7 @@ excerpt: '<b>Abstract</b> - Photoacoustic tomography (PAT) is a non-invasive ima
 date: February 2020
 venue: 'IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control '
 # paperurl: 'http://gaurav1302.github.io/files/TIFS2020.pdf'
-citation: '[N. Awasthi, <u><b>G. Jain</b></u>]*, S. K. Kalva, M. Pramanik and P. K. Yalavarthy, "Deep Neural Network Based Sinogram Super-resolution and Bandwidth Enhancement for Limited-data Photoacoustic Tomography," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. <b>[*Equal Contribution]<b>'
+citation: '[ N. Awasthi, <u><b>G. Jain</b></u> ]*, S. K. Kalva, M. Pramanik and P. K. Yalavarthy, "Deep Neural Network Based Sinogram Super-resolution and Bandwidth Enhancement for Limited-data Photoacoustic Tomography," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control. <b>(*Equal Contribution)<b>'
 
 ---
 This paper is about the number 2. The number 3 is left for future work.
