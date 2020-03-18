@@ -10,10 +10,10 @@ locale                   : "en-IN"
 title                    : "Gaurav Jain"
 title_separator          : "-"
 name                     : &name "Gaurav Jain"
-description              : &description "personal description"
+description              : &description "Pursuing bachelors in computer science at Delhi Technological University, New Delhi, India"
 url                      : https://gaurav1302.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gaurav1302/gaurav1302.github.io"
+repository               : "gaurav1302.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,9 +85,9 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=piSn5gQAAAAJ&hl=en"
-  email            :
+  email            : "gauravjain13298@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
