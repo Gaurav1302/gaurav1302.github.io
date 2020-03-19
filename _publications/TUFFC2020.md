@@ -7,7 +7,7 @@ excerpt: '<b>Abstract</b> - Photoacoustic tomography (PAT) is a non-invasive ima
 <br>
 <b>DOI: </b>[10.1109/TUFFC.2020.2977210](https://doi.org/10.1109/TUFFC.2020.2977210)
 <br>
-[Download PDF](http://gaurav1302.github.io/files/TUFFC2020.pdf)'
+[Download PDF](http://gaurav1302.github.io/files/TUFFC2020.pdf) '
 date: February 2020
 venue: 'IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control '
 # paperurl: 'http://gaurav1302.github.io/files/TIFS2020.pdf'
