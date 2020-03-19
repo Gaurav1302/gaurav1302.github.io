@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I am a senior year computer science undergrad at Delhi Technological University, New Delhi, India. My major research interests revolve around computer vision applications. In particular, I am interested in developing 
+I am a senior year computer science undergrad at Delhi Technological University, New Delhi, India. My major research interests revolve around computer vision and its applications as it pertains to Human-Computer Interaction (HCI).
