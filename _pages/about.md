@@ -9,6 +9,4 @@ redirect_from:
 ---
 
 
-This is Gaurav Jain's home page.
-
-Lorem ipsum
+I am a senior year computer science undergrad at Delhi Technological University, New Delhi, India. My major research interests revolve around computer vision applications. In particular, I wish to solve problems
