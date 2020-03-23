@@ -2,7 +2,7 @@
 title: "Deep Neural Network Based Sinogram Super-resolution and Bandwidth Enhancement for Limited-data Photoacoustic Tomography"
 collection: publications
 permalink: /publication/TUFFC2020
-excerpt: '<b>Abstract</b> - Photoacoustic tomography (PAT) is a non-invasive imaging modality combining the benefits of optical contrast at ultrasonic resolution. Analytical reconstruction algorithms for photoacoustic signals require large number of data points for accurate image reconstruction. However, in practical scenarios, data is collected using limited number of transducers along with data being often corrupted with noise resulting in only qualitative images. Further, the collected boundary data is band-limited due to limited bandwidth of the transducer making the photoacoustic imaging with limited data being qualitative. In this work, a deep neural network based model with loss function being scaled root-mean-squared-error was proposed for super-resolution, denoising as well as bandwidth enhancement of the photoacoustic signals collected at the boundary of the domain.
+excerpt: '<b>Abstract</b> - Photoacoustic tomography (PAT) is a non-invasive imaging modality combining the benefits of optical contrast at ultrasonic resolution.
 [Read more](https://gaurav1302.github.io/publication/TUFFC2020)
 <br>
 <b>DOI: </b>[10.1109/TUFFC.2020.2977210](https://doi.org/10.1109/TUFFC.2020.2977210)
