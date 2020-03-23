@@ -2,7 +2,7 @@
 title: "Deep Neural Network Based Sinogram Super-resolution and Bandwidth Enhancement for Limited-data Photoacoustic Tomography"
 collection: publications
 permalink: /publication/TUFFC2020
-excerpt: '<b>Abstract</b> - Photoacoustic tomography (PAT) is a non-invasive imaging modality combining the benefits of optical contrast at ultrasonic resolution...
+excerpt: 'Abstract - Photoacoustic tomography (PAT) is a non-invasive imaging modality combining the benefits of optical contrast at ultrasonic resolution...
 [[Read more]](https://gaurav1302.github.io/publication/TUFFC2020)
 [[Download Paper]](http://gaurav1302.github.io/files/TUFFC2020.pdf)
 [[CODE]](https://sites.google.com/site/sercmig/home/dnnpat)
