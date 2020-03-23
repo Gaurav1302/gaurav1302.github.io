@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/TUFFC2020
 excerpt: '<b>Abstract</b> - Photoacoustic tomography (PAT) is a non-invasive imaging modality combining the benefits of optical contrast at ultrasonic resolution...
 [[Read more]](https://gaurav1302.github.io/publication/TUFFC2020)
-[DOI: [10.1109/TUFFC.2020.2977210](https://doi.org/10.1109/TUFFC.2020.2977210)]
+[[DOI: 10.1109/TUFFC.2020.2977210]](https://doi.org/10.1109/TUFFC.2020.2977210)
 [[Download Paper]](http://gaurav1302.github.io/files/TUFFC2020.pdf)
 [[CODE]](https://sites.google.com/site/sercmig/home/dnnpat) '
 date: February 2020
