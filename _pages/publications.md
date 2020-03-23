@@ -5,11 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 You can also find an updated list of articles on my [Google Scholar Profile](https://scholar.google.com/citations?user=piSn5gQAAAAJ&hl=en).
-
-
-# endif
 
 {% include base_path %}
 
