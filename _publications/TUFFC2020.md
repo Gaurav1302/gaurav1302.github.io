@@ -21,4 +21,4 @@ citation: '[ N. Awasthi, <u><b>G. Jain</b></u> ]*, S. K. Kalva, M. Pramanik and 
 <b>DOI: </b>[10.1109/TUFFC.2020.2977210](https://doi.org/10.1109/TUFFC.2020.2977210)
 
 
-[Download PDF](http://gaurav1302.github.io/files/TUFFC2020.pdf)'
+[Download PDF](http://gaurav1302.github.io/files/TUFFC2020.pdf)
