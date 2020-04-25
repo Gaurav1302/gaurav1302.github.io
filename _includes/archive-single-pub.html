@@ -37,7 +37,9 @@
     <!-- </div> -->
     <!-- <p class="archive__item-excerpt">Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.</p> -->
     {% if post.paper_link %}
-      <a href= "{{post.paper_link}}" target="_blank"><img src="http://gaurav1302.github.io/images/pdf.png" alt="PDF"><span>Get&nbsp;PDF</span></a>
+      <a href= "{{post.paper_link}}" target="_blank"><img src="http://gaurav1302.github.io/images/pdf.png" alt="PDF">
+        <!-- <span>Get&nbsp;PDF</span> -->
+      </a>
     {% endif %}
     {% if post.code_link %}
       <a href= "{{post.code_link}}" target="_blank"><img src="http://gaurav1302.github.io/images/code.png" alt="CODE"><span>Get&nbsp;CODE</span></a>
