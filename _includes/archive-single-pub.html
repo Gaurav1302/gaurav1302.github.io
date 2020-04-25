@@ -26,11 +26,12 @@
           alt="">
       </div>
     {% endif %} -->
-
+    <!-- <div > -->
     <h2 class="archive__item-title" itemprop="headline">
       {{ post.title }}
     </h2>
-
+    <p class="archive__item-excerpt">{{ post.authors | markdownify }}</p>
+    <!-- </div> -->
     <h3 >
       Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.
     </h3>
