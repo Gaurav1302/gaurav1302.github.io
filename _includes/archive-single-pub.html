@@ -32,13 +32,12 @@
     </div>
     <p class="archive__item-excerpt">
       {{ post.authors | markdownify }}
-      <br>
       Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.
     </p>
     <!-- </div> -->
     <!-- <p class="archive__item-excerpt">Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.</p> -->
     {% if post.paper_link %}
-      {{post.paper_link}}
+      <a></a>{{post.paper_link}}
     {% endif %}
     {% if post.code_link %}
 
