@@ -11,10 +11,11 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
+<!-- list instead of grid -->
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: "grid" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <!-- {% if include.type == "grid" and teaser %}
+    {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
           {% if teaser contains "://" %}
@@ -24,7 +25,7 @@
           {% endif %}
           alt="">
       </div>
-    {% endif %} -->
+    {% endif %}
 
     <!-- <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
