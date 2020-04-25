@@ -30,9 +30,25 @@
     <h2 class="archive__item-title" itemprop="headline">
       {{ post.title }}
     </h2>
-    <p class="archive__item-excerpt">{{ post.authors | markdownify }}</p>
+    <p class="archive__item-excerpt">
+      {{ post.authors | markdownify }}
+      <br>
+      Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.
+    </p>
     <!-- </div> -->
-    <p class="archive__item-excerpt">Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.</p>
+    <!-- <p class="archive__item-excerpt">Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.</p> -->
+    {% if post.paper_link %}
+      {{post.paper_link}}
+    {% endif %}
+    {% if post.code_link %}
+
+    {% endif %}
+    {% if post.ppt %}
+
+    {% endif %}
+    {% if post.doi %}
+
+    {% endif %}
 
     <!-- {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
