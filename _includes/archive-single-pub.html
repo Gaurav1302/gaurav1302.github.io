@@ -37,7 +37,7 @@
     <!-- </div> -->
     <!-- <p class="archive__item-excerpt">Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.</p> -->
     {% if post.paper_link %}
-      <a></a>{{post.paper_link}}
+      <a href:></a>{{post.paper_link}}
     {% endif %}
     {% if post.code_link %}
 
@@ -48,6 +48,11 @@
     {% if post.doi %}
 
     {% endif %}
+
+
+    <a href="publications/rad.html" target="_blank"><img src="img/icons/pdf.png" alt="PDF"><span>Get&nbsp;PDF</span></a>
+    <img src="img/icons/pdf.png" alt="PDF">
+    <span>Get&nbsp;PDF</span>
 
     <!-- {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
