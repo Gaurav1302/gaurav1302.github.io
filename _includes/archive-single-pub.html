@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 <!-- list instead of grid -->
-<ol class="publications" reversed="">
+<ol class="{{ include.type | default: "list" }}__item">
         <li class="publication">
             <span class="title">
                 {{post.title}}
