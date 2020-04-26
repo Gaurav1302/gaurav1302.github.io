@@ -12,11 +12,35 @@
   {% assign title = post.title %}
 {% endif %}
 <!-- list instead of grid -->
-<ol class="{{ include.type | default: "list" }}__item">
+<ul class="{{ include.type | default: "list" }}__item">
         <li class="publication">
             <span class="title">
                 {{post.title}}
             </span>
+            {% if post.paper_link %}
+              <a itemprop="headline" href= "{{post.paper_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/pdf.png" alt="PDF" height="30" width="25">
+                <span>Get&nbsp;PDF</span>
+              </a>
+              &nbsp;
+            {% endif %}
+            {% if post.code_link %}
+              <a href= "{{post.code_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/code.png" alt="CODE" height="20" width="30">
+                <span>Get&nbsp;CODE</span>
+              </a>
+              &nbsp;
+            {% endif %}
+            {% if post.ppt %}
+              <a href= "{{post.ppt}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/ppt.png" alt="PPT" height="40" width="30">
+                <span>View&nbsp;Presentation</span>
+              </a>
+              &nbsp;
+            {% endif %}
+            {% if post.doi %}
+              <a href= "{{post.doi_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/doi.png" alt="DOI" height="25" width="25">
+              <span>{{post.doi}}</span>
+              </a>
+              &nbsp;
+            {% endif %}
             <span class="authors">
                 <a href="index.html">Brian A. Smith</a>,&nbsp;&nbsp;
                 <a href="http://www.cs.columbia.edu/~nayar/" target="_blank">Shree K. Nayar</a>
@@ -34,7 +58,7 @@
             	<a href="https://dl.acm.org/citation.cfm?id=3174090" target="_blank"><img src="img/icons/acm.png" alt="ACM Logo"><span>ACM&nbsp;DL&nbsp;Page</span></a>
             </span>
         </li>
-</ol>
+</ul>
 
 
 
