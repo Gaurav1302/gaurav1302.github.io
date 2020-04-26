@@ -15,8 +15,8 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-      <ul>
-        <li>
+      <ol>
+        <li value="{{post.index}}">
           <h2 class="archive__item-title" itemprop="headline">
               <span> {{ post.title }}</span>
               <!-- {% if post.link %}
@@ -72,6 +72,6 @@
             	<a href="https://dl.acm.org/citation.cfm?id=3174090" target="_blank"><img src="img/icons/acm.png" alt="ACM Logo"><span>ACM&nbsp;DL&nbsp;Page</span></a>
             </span> -->
         </li>
-      </ul>
+      </ol>
     </article>
 </div>
