@@ -16,8 +16,14 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       <ul>
-        <li class="publication">
-            <span class="title">
+        <li>
+          <h3>
+            {{ post.title }}
+          </h3>
+          <p class="archive__item-excerpt">
+            {{ post.authors | markdownify }} Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.
+          </p>
+            <span>
                 {{post.title}}
             </span>
             {% if post.paper_link %}
