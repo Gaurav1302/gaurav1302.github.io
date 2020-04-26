@@ -7,6 +7,7 @@ paper_link: 'http://gaurav1302.github.io/files/TUFFC2020.pdf'
 doi_link: 'https://doi.org/10.1109/TUFFC.2020.2977210'
 code_link: 'https://sites.google.com/site/sercmig/home/dnnpat'
 doi: '10.1109/TUFFC.2020.2977210'
+index: '2'
 ---
 
 
