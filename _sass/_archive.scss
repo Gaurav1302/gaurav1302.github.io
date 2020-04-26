@@ -15,10 +15,10 @@
   }
 
   a {
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
-      text-decoration: none;
+      text-decoration: underline;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -52,7 +52,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0;
     border-bottom: none;
   }
 }
