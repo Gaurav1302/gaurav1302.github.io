@@ -12,7 +12,10 @@
   {% assign title = post.title %}
 {% endif %}
 <!-- list instead of grid -->
-<ul class="{{ include.type | default: "list" }}__item">
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <ul>
         <li class="publication">
             <span class="title">
                 {{post.title}}
@@ -41,7 +44,7 @@
               </a>
               &nbsp;
             {% endif %}
-            <span class="authors">
+            <!-- <span class="authors">
                 <a href="index.html">Brian A. Smith</a>,&nbsp;&nbsp;
                 <a href="http://www.cs.columbia.edu/~nayar/" target="_blank">Shree K. Nayar</a>
             </span>
@@ -56,10 +59,11 @@
             </span>
             <span class="dl_link">
             	<a href="https://dl.acm.org/citation.cfm?id=3174090" target="_blank"><img src="img/icons/acm.png" alt="ACM Logo"><span>ACM&nbsp;DL&nbsp;Page</span></a>
-            </span>
+            </span> -->
         </li>
-</ul>
-
+      </ul>
+    </article>
+</div>
 
 
 <div class="{{ include.type | default: "list" }}__item">
@@ -147,5 +151,5 @@
     <p class="archive__item-excerpt" itemprop=""><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %} -->
 
-  </article>
-</div>
+  <!-- </article>
+</div> -->
