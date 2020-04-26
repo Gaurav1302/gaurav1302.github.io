@@ -23,9 +23,6 @@
           <p class="archive__item-excerpt">
             {{ post.authors | markdownify }} Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.
           </p>
-            <span>
-                {{post.title}}
-            </span>
             {% if post.paper_link %}
               <a itemprop="headline" href= "{{post.paper_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/pdf.png" alt="PDF" height="30" width="25">
                 <span>Get&nbsp;PDF</span>
