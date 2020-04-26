@@ -4,8 +4,9 @@ authors: '[ Navchetan Awasthi, <u><b>Gaurav Jain</b></u> ]\*, Sandeep K. Kalva, 
 venue: 'IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control'
 vol_date: '2020'
 paper_link: 'http://gaurav1302.github.io/files/TUFFC2020.pdf'
-doi: 'https://doi.org/10.1109/TUFFC.2020.2977210'
+doi_link: 'https://doi.org/10.1109/TUFFC.2020.2977210'
 code_link: 'https://sites.google.com/site/sercmig/home/dnnpat'
+doi: '10.1109/TUFFC.2020.2977210'
 ---
 
 

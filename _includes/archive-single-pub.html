@@ -13,6 +13,9 @@
 {% endif %}
 <!-- list instead of grid -->
 
+
+
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <!-- {% if include.type == "grid" and teaser %}
@@ -51,14 +54,14 @@
       </a>
     {% endif %}
     {% if post.doi %}
-      <a href= "{{post.doi}}" target="_blank"><img src="http://gaurav1302.github.io/images/doi.png" alt="DOI" height="25" width="25">
-      <span>DOI&nbsp;</span>
+      <a href= "{{post.doi_link}}" target="_blank"><img src="http://gaurav1302.github.io/images/doi.png" alt="DOI" height="25" width="25">
+      <span>{{post.doi}}</span>
       </a>
     {% endif %}
 
 
 
-    <!-- <img src="img/icons/pdf.png" alt="PDF">
+    <!-- <img src="img/icons/pdf.png" alt="PDF">  DOI&nbsp;
     <span>Get&nbsp;PDF</span> -->
 
     <!-- {% if post.read_time %}
