@@ -4,7 +4,7 @@
 
 .archive {
   margin-bottom: 2em;
-
+  
   @include breakpoint($medium) {
     @include span(12 of 12);
   }
@@ -36,6 +36,8 @@
 
   + .list__item .archive__item-title {
     margin-top: 0;
+    margin:0px;
+    line-height:35px;
   }
 }
 
@@ -54,12 +56,16 @@
   .archive__item-title {
     margin-top: 0;
     border-bottom: none;
+    margin:0px;
+    line-height:35px;
   }
 }
 
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
+  margin:0px;
+  line-height:35px;
 
   & + p {
     text-indent: 0;
