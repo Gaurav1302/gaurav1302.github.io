@@ -19,15 +19,7 @@
         <li class="archive__item-title" itemprop="headline" value="{{post.index}}">
           <h3 class="archive__item-title" itemprop="headline">
               <span>{{ post.title }}</span>
-              <!-- {% if post.link %}
-                <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-              {% else %}
-                <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-              {% endif %} -->
           </h3>
-          <!-- <h3 class=>
-            {{ post.title }}
-          </h3> -->
           <p class="archive__item-excerpt">
             {{ post.authors | markdownify }} Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.
           </p>
@@ -38,19 +30,19 @@
               &nbsp;
             {% endif %}
             {% if post.code_link %}
-              <a href= "{{post.code_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/code.png" alt="CODE" height="20" width="30">
+              <a itemprop="headline" href= "{{post.code_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/code.png" alt="CODE" height="20" width="30">
                 <span>Get&nbsp;CODE</span>
               </a>
               &nbsp;
             {% endif %}
             {% if post.ppt %}
-              <a href= "{{post.ppt}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/ppt.png" alt="PPT" height="40" width="30">
+              <a itemprop="headline" href= "{{post.ppt}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/ppt.png" alt="PPT" height="40" width="30">
                 <span>View&nbsp;Presentation</span>
               </a>
               &nbsp;
             {% endif %}
             {% if post.doi %}
-              <a href= "{{post.doi_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/doi.png" alt="DOI" height="25" width="25">
+              <a itemprop="headline" href= "{{post.doi_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/doi.png" alt="DOI" height="25" width="25">
               <span>{{post.doi}}</span>
               </a>
               &nbsp;
