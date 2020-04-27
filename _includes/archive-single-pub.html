@@ -19,13 +19,10 @@
         <li class="archive__item-title"  value="{{post.index}}" >
           <a class="archive__item-title" itemprop="headline" style="color:black">
               <span>{{ post.title }}</span>
-              <span class="archive__item-excerpt">
-                {{ post.authors | markdownify }} Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.
-              </span>
           </a>
-          <!-- <p class="archive__item-excerpt">
+          <p class="archive__item-excerpt">
             {{ post.authors | markdownify }} Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.
-          </p> -->
+          </p>
             {% if post.paper_link %}
               <a href= "{{post.paper_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/pdf.png" alt="PDF" height="30" width="25">
                 <span>Get&nbsp;PDF</span>
