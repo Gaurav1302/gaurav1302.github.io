@@ -19,7 +19,7 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 1px rgba(#000, 0.25);
@@ -43,7 +43,7 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0;
+  margin-bottom: -10px;
   font-family: $sans-serif-narrow;
 
   a + a {
