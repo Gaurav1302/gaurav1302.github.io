@@ -15,7 +15,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-      <ol class="archive__item-title">
+      <ol>
         <li class="archive__item-title"  value="{{post.index}}" >
           <a class="archive__item-title" itemprop="headline" style="text-decoration: none">
               <span>{{ post.title }}</span>
@@ -30,7 +30,7 @@
               &nbsp;
             {% endif %}
             {% if post.code_link %}
-              <a href= "{{post.code_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/code.png" alt="CODE" height="20" width="30">
+              <a itemprop="headline" href= "{{post.code_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/code.png" alt="CODE" height="20" width="30">
                 <span>Get&nbsp;CODE</span>
               </a>
               &nbsp;
