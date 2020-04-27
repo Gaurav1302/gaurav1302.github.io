@@ -16,10 +16,10 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       <ol class="archive__item-title">
-        <li class="archive__item-title"  value="{{post.index | markdownify}}" >
-          <h3 class="archive__item-title" itemprop="headline">
+        <li class="archive__item-title"  value="{{post.index}}" >
+          <a class="archive__item-title" itemprop="headline">
               <span>{{ post.title }}</span>
-          </h3>
+          </a>
           <p class="archive__item-excerpt">
             {{ post.authors | markdownify }} Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.
           </p>
