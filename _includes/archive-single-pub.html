@@ -24,25 +24,25 @@
             {{ post.authors | markdownify }} Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.
           </p>
             {% if post.paper_link %}
-              <a itemprop="headline" href= "{{post.paper_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/pdf.png" alt="PDF" height="30" width="25">
+              <a href= "{{post.paper_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/pdf.png" alt="PDF" height="30" width="25">
                 <span>Get&nbsp;PDF</span>
               </a>
               &nbsp;
             {% endif %}
             {% if post.code_link %}
-              <a itemprop="headline" href= "{{post.code_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/code.png" alt="CODE" height="20" width="30">
+              <a href= "{{post.code_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/code.png" alt="CODE" height="20" width="30">
                 <span>Get&nbsp;CODE</span>
               </a>
               &nbsp;
             {% endif %}
             {% if post.ppt %}
-              <a itemprop="headline" href= "{{post.ppt}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/ppt.png" alt="PPT" height="40" width="30">
+              <a href= "{{post.ppt}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/ppt.png" alt="PPT" height="40" width="30">
                 <span>View&nbsp;Presentation</span>
               </a>
               &nbsp;
             {% endif %}
             {% if post.doi %}
-              <a itemprop="headline" href= "{{post.doi_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/doi.png" alt="DOI" height="25" width="25">
+              <a href= "{{post.doi_link}}" target="_blank" style="text-decoration: none"><img src="http://gaurav1302.github.io/images/doi.png" alt="DOI" height="25" width="25">
               <span>{{post.doi}}</span>
               </a>
               &nbsp;
