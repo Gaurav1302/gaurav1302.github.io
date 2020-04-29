@@ -23,7 +23,7 @@
 
     &:hover {
       text-decoration: underline;
-      color: blue;
+      color: $link-color-hover;
 
     &:visited {
       text-decoration: none;
