@@ -25,9 +25,9 @@
           </a>
         </li>
           {{ post.content | markdownify }}
-          <p class="archive__item-excerpt">
+          <!-- <p class="archive__item-excerpt">
             <span style="margin-bottom:-5px;margin-top:-5px">{{ post.authors | markdownify }} Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.</span>
-          </p>
+          </p> -->
             {% if post.paper_link %}
               <a href= "{{post.paper_link}}" target="_blank" style="text-decoration: none; margin-bottom:-5px"><img src="http://gaurav1302.github.io/images/pdf.png" alt="PDF" height="30" width="25">
                 <span>Get&nbsp;PDF</span>
