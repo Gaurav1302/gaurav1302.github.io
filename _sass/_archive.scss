@@ -16,13 +16,13 @@
   }
 
   a {
-
-    a:link{
-      text-decoration: none;
-    }
+    text-decoration: none;
+    // a:link{
+    //   text-decoration: none;
+    // }
 
     a:hover {
-      text-decoration: none;
+      // text-decoration: none;
       color: $link-color-hover;
 
       img {
