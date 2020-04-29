@@ -20,16 +20,16 @@
           <a class="archive__item-title" itemprop="headline" style="color:black">
               <span style="font-weight: bold">
                 {{ post.title }}
-                <!-- ---xxx--- -->
+                ---xxx---
               </span>
           </a>
         </li>
           <!-- {{ post.content | markdownify }} -->
           <p class="archive__item-excerpt">
-            <span style="margin-bottom:5px;margin-top:5px">{{ post.authors }}<br>Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.</span>
+            <span style="margin-bottom:50px;margin-top:50px">{{ post.authors }}<br>Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.</span>
           </p>
             {% if post.paper_link %}
-              <a href= "{{post.paper_link}}" target="_blank" style="text-decoration: none; margin-bottom:0px"><img src="http://gaurav1302.github.io/images/pdf.png" alt="PDF" height="30" width="25">
+              <a href= "{{post.paper_link}}" target="_blank" style="text-decoration: none; margin-top: 20px; margin-bottom:0px"><img src="http://gaurav1302.github.io/images/pdf.png" alt="PDF" height="30" width="25">
                 <span>Get&nbsp;PDF</span>
               </a>
               &nbsp;
