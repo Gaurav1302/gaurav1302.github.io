@@ -20,17 +20,17 @@
           <a class="archive__item-title" itemprop="headline" style="color:black">
               <span style="font-weight: bold; font-size:14pt">
                 {{ post.title }}
-                ---xxx---
+                <!-- ---xxx--- -->
               </span>
           </a>
         </li>
           <!-- {{ post.content | markdownify }} -->
           <p class="archive__item-excerpt">
-            <span style="margin-bottom:0;margin-top:0px;font-size:14pt; line-height:1.2">
+            <span style="margin-bottom:0;margin-top:0px;font-size:14pt; line-height:12">
               {{ post.authors }}
             </span>
             <br>
-            <span style="margin-bottom:0;margin-top:10px;font-size:14pt; line-height:1.2">
+            <span style="margin-bottom:0;margin-top:10px;font-size:14pt; line-height:12">
               Published in <i>{{ post.venue }}</i>, {{ post.vol_date }}.
             </span>
           </p>
