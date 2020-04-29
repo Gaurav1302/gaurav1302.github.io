@@ -36,8 +36,8 @@
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
-    margin-top: 200;
-    margin:20px;
+    // margin-top: 200;
+    // margin:20px;
     // line-height:35px;
   }
 }
@@ -63,9 +63,9 @@
 }
 
 .archive__item-excerpt {
-  margin-top: -20px;
+  // margin-top: -20px;
   font-size: $type-size-6;
-  margin-bottom:-20px;
+  // margin-bottom:-20px;
   // line-height:35px;
 
   & + p {
