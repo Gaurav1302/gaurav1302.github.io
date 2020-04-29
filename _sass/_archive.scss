@@ -37,13 +37,13 @@
 
   + .list__item .archive__item-title {
     margin-top: 200;
-    margin:200px;
+    margin:20px;
     // line-height:35px;
   }
 }
 
 .archive__item-title {
-  margin-bottom: 200;
+  margin-bottom: 10px;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -55,10 +55,10 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: -20px;
+    // margin-top: -20px;
     border-bottom: none;
-    margin-bottom:-20px;
-    line-height:35px;
+    // margin-bottom:-20px;
+    // line-height:35px;
   }
 }
 
