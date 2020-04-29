@@ -1,6 +1,6 @@
 ---
 title: 'Deep Neural Network Based Sinogram Super-resolution and Bandwidth Enhancement for Limited-data Photoacoustic Tomography'
-authors: '[ Navchetan Awasthi, <u><b>Gaurav Jain</b></u> ]\*, Sandeep K. Kalva, Manojit Pramanik and Phaneendra K. Yalavarthy <small>(\*Equal Contribution)</small>'
+authors: [ Navchetan Awasthi, <u><b>Gaurav Jain</b></u> ]\*, Sandeep K. Kalva, Manojit Pramanik and Phaneendra K. Yalavarthy <small>(\*Equal Contribution)</small>
 venue: 'IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (Special issue on Deep Learning in Medical Ultrasound)'
 vol_date: ' 2020 (in press)'
 paper_link: 'http://gaurav1302.github.io/files/TUFFC2020.pdf'
