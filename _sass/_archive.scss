@@ -16,7 +16,6 @@
   }
 
   a {
-    text-decoration: none;
 
     a:link{
       text-decoration: none;
@@ -24,7 +23,7 @@
 
     a:hover {
       text-decoration: underline;
-      color: blue;
+      // color: blue;
 
       img {
         box-shadow: 0 0 1px rgba(#000, 0.25);
