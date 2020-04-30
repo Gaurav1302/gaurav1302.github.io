@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ### Hi! -->
+### Hi!
 I am currently a senior year computer science undergrad at [Delhi Technological University](www.dtu.ac.in) (formerly Delhi College of Engineering), New Delhi, India. This fall, I will be starting as a Ph.D. student in computer science at [Columbia University](www.columbia.edu), advised by [Prof. Brian A. Smith](http://www.cs.columbia.edu/~brian/index.html).
 
 ## Research: AI for people!
