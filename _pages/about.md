@@ -14,6 +14,6 @@ I am a senior year computer science undergrad at Delhi Technological University 
 
 
 
-[Curriculum Vitae]('http://gaurav1302.github.io/files/Gaurav_Jain_CV_april_30.pdf') (Last updated in April 2020)
+[Curriculum Vitae](http://gaurav1302.github.io/files/Gaurav_Jain_CV_april_30.pdf) (Last updated in April 2020)
 
 <!-- {{ site.pages.publications }} -->
