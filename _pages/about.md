@@ -17,6 +17,3 @@ My primary research interest revolves around answering the question, ***"How can
 
 ## Curriculum Vitae (CV)
 Please find my CV [here](http://gaurav1302.github.io/files/Gaurav_Jain_CV_april_30.pdf) (Last updated in April 2020).
-
-<!-- {{ site.pages.publications }} -->
-  <!-- {{ page }} -->
