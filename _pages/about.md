@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi!"
+title: ""
 excerpt: "Pursuing Bachelors in Computer Science at Delhi Technological University, New Delhi, India."
 author_profile: true
 redirect_from:
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior year computer science undergrad at [Delhi Technological University](www.dtu.ac.in) (formerly Delhi College of Engineering), New Delhi, India. This fall, I will be starting as Ph.D. student in computer science at [Columbia University](www.columbia.edu), advised by [Prof. Brian A. Smith](http://www.cs.columbia.edu/~brian/index.html).
+### Hi!
+
+I am currently a senior year computer science undergrad at [Delhi Technological University](www.dtu.ac.in) (formerly Delhi College of Engineering), New Delhi, India. This fall, I will be starting as a Ph.D. student in computer science at [Columbia University](www.columbia.edu), advised by [Prof. Brian A. Smith](http://www.cs.columbia.edu/~brian/index.html).
 
 ## Research: AI for people!
 
@@ -16,3 +18,5 @@ My primary research interest revolves around answering the question, ***"How can
 
 ## Curriculum Vitae (CV)
 Please find my CV [here](http://gaurav1302.github.io/files/Gaurav_Jain_CV_april_30.pdf) (Last updated in April 2020).
+
+publications.md
