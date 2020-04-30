@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Hi!"
 excerpt: "Pursuing Bachelors in Computer Science at Delhi Technological University, New Delhi, India."
 author_profile: true
 redirect_from:
