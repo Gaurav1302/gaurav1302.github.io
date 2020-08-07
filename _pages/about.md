@@ -19,5 +19,5 @@ My primary research interest revolves around answering the question, ***"How can
 Please find my CV [here](http://gaurav1302.github.io/files/Gaurav_CV_PhD.pdf).
 
 
-If you're interested in connecting, feel free to [email](mailto:gaurav.jain@columbia.edu) me or reach out on [LinkedIn](https://www.linkedin.com/in/gauravjain13298). I'm open to new connections!
+If you're interested in connecting, feel free to email me > gaurav.jain@columbia.edu.
 
