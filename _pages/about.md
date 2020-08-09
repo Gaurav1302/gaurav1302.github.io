@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Gaurav Jain, CS PhD candidate at Columbia University"
+excerpt: "Gaurav Jain | CS PhD candidate, Columbia University"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ### Hi! -->
-Hi! I'm Gaurav, a first year Ph.D. student in computer science at [Columbia University](www.columbia.edu), advised by [Prof. Brian A. Smith](http://www.cs.columbia.edu/~brian/index.html).
+Hi! I'm Gaurav, a first year Ph.D. student in computer science at [Columbia University](https://www.columbia.edu/), advised by [Dr. Brian A. Smith](http://www.cs.columbia.edu/~brian/index.html).
 
 ### Research: AI for people
 
