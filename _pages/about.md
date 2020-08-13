@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ### Hi! -->
-Hi! I'm Gaurav, a first year Ph.D. student in computer science at [Columbia University](https://www.columbia.edu/), advised by [Dr. Brian A. Smith](http://www.cs.columbia.edu/~brian/index.html) at the Computer-Enabled Abilities Laboratory (CEAL).
+Hi, I'm a Ph.D. student in computer science at [Columbia University](https://www.columbia.edu/), advised by [Dr. Brian A. Smith](http://www.cs.columbia.edu/~brian/index.html) at the Computer-Enabled Abilities Laboratory (CEAL).
 
 ### Research: AI for people
 
@@ -19,5 +19,5 @@ My primary research interest revolves around answering the question, ***"How can
 Please find my CV [here](http://gaurav1302.github.io/files/Gaurav_CV_PhD.pdf).
 
 
-If you're interested in connecting, feel free to email me > gaurav.jain@columbia.edu.
+If you're interested in my work and wish to discuss anything, feel free to [email](gaurav.jain@columbia.edu) me or on connect with me on [LinkedIn](https://www.linkedin.com/in/gauravjain13298/) -- I'm open to new connections! .
 
