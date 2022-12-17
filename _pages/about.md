@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Gaurav Jain | CS PhD student, Columbia University"
+excerpt: "Gaurav Jain | CS PhD candidate, Columbia University"
 author_profile: true
 redirect_from:
   - /about/
