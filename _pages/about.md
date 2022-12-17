@@ -15,7 +15,7 @@ Hi! I'm currently a third-year Ph.D. candidate in computer science at Columbia U
 
 I am interested in using AI -- specifically, computer vision and deep learning -- to address accessibility problems. My work is focused on designing and developing systems that help blind or low-vision (BLV) people better experience the world -- both physical and digital worlds -- around them.  
 
-Previously, I have performed a qualitative study with blind and low vision (BLV) people to understand how navigation systems can evolve to support them in exploring unfamiliar environments, as opposed to just going from point A to point B ([CSCW 2023](https://arxiv.org/abs/2211.16465)). More recently, I developed a computer vision-based system that facilitates a more immersive experience for BLV people when watching sports, enabling them to visualize gameplay directly from videos. 
+Previously, I have performed a qualitative study with BLV people to understand how navigation systems can evolve to support them in exploring unfamiliar environments, as opposed to just going from point A to point B ([CSCW 2023](https://arxiv.org/abs/2211.16465)). More recently, I developed a computer vision-based system that facilitates a more immersive experience for BLV people when watching sports, enabling them to visualize gameplay directly from videos. 
 
 My ongoing work explores the use of multimodal representation learning and crowdsourcing to develop tools that help make videos accessible at scale. In addition, I'm exploring new forms of interactions that smart streetscapes — streets equipped with sensors and computational power — can facilitate to support BLV people's navigation. 
 
