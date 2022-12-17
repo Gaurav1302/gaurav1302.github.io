@@ -9,11 +9,11 @@ redirect_from:
 ---
 <!-- ## About Me -->
 
-Hi! I'm a Ph.D. student in computer science at Columbia University. I work on Human-computer Interaction with Professor [Brian A. Smith](http://www.cs.columbia.edu/~brian/index.html) in the Computer-Enabled Abilities Laboratory ([CEAL](https://ceal.cs.columbia.edu/)).
+Hi! I'm currently a third-year Ph.D. candidate in computer science at Columbia University. I work on Human-computer Interaction with Professor [Brian A. Smith](http://www.cs.columbia.edu/~brian/index.html) in the Computer-Enabled Abilities Laboratory ([CEAL](https://ceal.cs.columbia.edu/)).
 
 ## Research: Leveraging AI for Accessibility
 
-I am interested in using AI -- specifically, computer vision and deep learning -- to address accessibility problems. Previously, I performed a qualitative study with blind and low vision (BLV) people to understand how navigation systems can evolve to support them in exploring unfamiliar environments, as opposed to just going from point A to point B ([CSCW 2023](https://arxiv.org/abs/2211.16465)). More recently, I designed and developed a computer vision-based system that facilitates a more immersive experience for BLV people when watching sports, enabling them to visualize gameplay. My ongoing work explores the use of multimodal representation learning to create tools that help make digital visual media, such as videos, more accessible.
+I am interested in using AI -- specifically, computer vision and deep learning -- to address accessibility problems. Previously, I performed a qualitative study with blind and low vision (BLV) people to understand how navigation systems can evolve to support them in exploring unfamiliar environments, as opposed to just going from point A to point B ([CSCW 2023](https://arxiv.org/abs/2211.16465)). More recently, I designed and developed a computer vision-based system that facilitates a more immersive experience for BLV people when watching sports, enabling them to visualize gameplay. My ongoing work explores the use of multimodal representation learning and crowdsourcing to create tools that help make videos accessible.
 
 <!-- My research revolves around building systems that help people with disabilities to better experience the world around them. Specifically, I am interested in leveraging computer vision and deep learning for multimodal analysis (such as videos, images, and audio) to make digital media more accessible to people who are blind and low vision. To this end, I focus on solving technical challenges of using AI for accessibility and the design of novel interaction techniques that help facilitate a more immersive user experience for people with disabilities. -->
 
@@ -34,7 +34,7 @@ Here's my [CV](http://gaurav1302.github.io/files/Gaurav_CV_PhD.pdf).
 For an updated list of articles, please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=piSn5gQAAAAJ&hl=en)
 
 
-## Contact
+## Contact Me
 
 If you're interested in my work and wish to discuss anything, feel free to email me (myfirstname \[at\] cs \[dot\] columbia \[dot\] edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/gauravjain13298/) -- I'm open to new connections!
 
