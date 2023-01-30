@@ -22,11 +22,11 @@ My ongoing work explores the use of multimodal representation learning and crowd
 Here's my [CV](http://gaurav1302.github.io/files/Gaurav_CV_PhD.pdf).
 
 
-## Updates
+## Talks
 
-- December 2022: Passed my candidacy exam on Dec 13, 2022. [[Talk](https://www.youtube.com/watch?v=QuGQKrjezdk)] [[Slides](http://gaurav1302.github.io/files/CE.pdf)]
+- Candidacy Exam titled "Watching Videos Without Vision: Challenges, Techniques, and the Future of Video Accessibility." [[Talk](https://www.youtube.com/watch?v=QuGQKrjezdk)] [[Slides](http://gaurav1302.github.io/files/CE.pdf)]
 <iframe width="504" height="283.5" src="https://www.youtube.com/embed/QuGQKrjezdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-- November 2022: Paper accepted at CSCW 2023. [[Preprint](https://arxiv.org/abs/2211.16465)] 
+<!-- - November 2022: Paper accepted at CSCW 2023. [[Preprint](https://arxiv.org/abs/2211.16465)]  -->
 
 <!-- My research revolves around building systems that help people with disabilities to better experience the world around them. Specifically, I am interested in leveraging computer vision and deep learning for multimodal analysis (such as videos, images, and audio) to make digital media more accessible to people who are blind and low vision. To this end, I focus on solving technical challenges of using AI for accessibility and the design of novel interaction techniques that help facilitate a more immersive user experience for people with disabilities. -->
 
