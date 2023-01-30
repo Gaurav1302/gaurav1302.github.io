@@ -24,7 +24,7 @@ Here's my [CV](http://gaurav1302.github.io/files/Gaurav_CV_PhD.pdf).
 
 ## Talks
 
-Candidacy Exam -- "Watching Videos Without Vision: Challenges, Techniques, and the Future of Video Accessibility." [[Talk](https://www.youtube.com/watch?v=QuGQKrjezdk)] [[Slides](http://gaurav1302.github.io/files/CE.pdf)]
+[December 2022] Candidacy Exam -- "Watching Videos Without Vision: Challenges, Techniques, and the Future of Video Accessibility." [[Talk](https://www.youtube.com/watch?v=QuGQKrjezdk)] [[Slides](http://gaurav1302.github.io/files/CE.pdf)]
 <iframe width="504" height="283.5" src="https://www.youtube.com/embed/QuGQKrjezdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!-- - November 2022: Paper accepted at CSCW 2023. [[Preprint](https://arxiv.org/abs/2211.16465)]  -->
 
