@@ -59,8 +59,19 @@
               </p> -->
               {% if post.paper_link %}
               <a href= "{{post.paper_link}}" target="_blank" style="text-decoration: none; font-size:11pt; margin-top: 5px; margin-bottom:0px; color: #333;">
-                <span style="color: #52adc8; text-decoration: none; background-color: white; border: 2px;">
-                  <img src="http://gaurav1302.github.io/images/pdf-icon.png" alt="PDF" height="25" width="20">&nbsp;<span>Get&nbsp;PDF</span>
+                <span style="
+                color: #52adc8; 
+                text-decoration: none; 
+                margin-right: 6px;
+                padding: 5px 12px;
+                background: rgba(0, 0, 0, 0.05);
+                border: 1px solid #ccc;
+                border-radius: 6px;
+                line-height: 46px;
+                white-space: nowrap;
+                color: #303030; 
+                ">
+                  PDF
                 </span>
                 <!-- <a class='pub-pdf-link' href="{{post.paper_link}}" target='_blank'><i class='fa fa-file-pdf-o'></i>Get PDF</a> -->
                 
@@ -69,18 +80,40 @@
             {% endif %}
             {% if post.doi %}
               <a href= "{{post.doi_link}}" target="_blank" style="text-decoration: none; font-size:10pt; margin-bottom:0px; color: #333;">
-                [<span style="color: #52adc8; text-decoration: none;">
+                <span style="
+                color: #52adc8; 
+                text-decoration: none; 
+                margin-right: 6px;
+                padding: 5px 12px;
+                background: rgba(0, 0, 0, 0.05);
+                border: 1px solid #ccc;
+                border-radius: 6px;
+                line-height: 46px;
+                white-space: nowrap;
+                color: #303030; 
+                ">
                   DOI
-                </span>]
+                </span>
                 <!-- <img src="http://gaurav1302.github.io/images/doi.png" alt="DOI" height="25" width="25">&nbsp;<span>{{post.doi}}</span> -->
               </a>
               <!-- &nbsp; -->
             {% endif %}
             {% if post.code_link %}
               <a href= "{{post.code_link}}" target="_blank" style="text-decoration: none; font-size:10pt; margin-bottom:0px; line-height:10px; color: #333;">
-                [<span style="color: #52adc8; text-decoration: none;">
+                <span style="
+                color: #52adc8; 
+                text-decoration: none; 
+                margin-right: 6px;
+                padding: 5px 12px;
+                background: rgba(0, 0, 0, 0.05);
+                border: 1px solid #ccc;
+                border-radius: 6px;
+                line-height: 46px;
+                white-space: nowrap;
+                color: #303030; 
+                ">
                   CODE
-                </span>]
+                </span>
                 <!-- <img src="http://gaurav1302.github.io/images/code.png" alt="CODE" height="17" width="25">&nbsp;<span>Get&nbsp;CODE</span> -->
               </a>
             {% endif %}

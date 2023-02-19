@@ -24,7 +24,20 @@ Here's my [CV](http://gaurav1302.github.io/files/Gaurav_CV_PhD.pdf).
 
 ## Talks
 
-December 2022: "Watching Videos Without Vision: Challenges, Techniques, and the Future of Video Accessibility." [[Talk](https://www.youtube.com/watch?v=QuGQKrjezdk)] [[Slides](http://gaurav1302.github.io/files/CE.pdf)]
+December 2022: "[Watching Videos Without Vision: Challenges, Techniques, and the Future of Video Accessibility](https://www.youtube.com/watch?v=QuGQKrjezdk)." 
+              <!-- | [Slides](http://gaurav1302.github.io/files/CE.pdf) ) <a href= "https://www.youtube.com/watch?v=QuGQKrjezdk" target="_blank" style="text-decoration: none; font-size:11pt; margin-top: 5px; margin-bottom:0px; color: #333;">
+                <span style="color: #52adc8; text-decoration: none; margin-right: 6px; padding: 5px 12px; background: rgba(0, 0, 0, 0.05); border: 1px solid #ccc; border-radius: 6px; line-height: 46px; white-space: nowrap; color: #303030; 
+                ">
+                  Talk
+                </span>                
+              </a>
+              <a href= "http://gaurav1302.github.io/files/CE.pdf" target="_blank" style="text-decoration: none; font-size:11pt; margin-top: 5px; margin-bottom:0px; color: #333;">
+                <span style="color: #52adc8; text-decoration: none; margin-right: 6px; padding: 5px 12px; background: rgba(0, 0, 0, 0.05); border: 1px solid #ccc; border-radius: 6px; line-height: 46px; white-space: nowrap; color: #303030; 
+                ">
+                  Slides
+                </span>                
+              </a> -->
+
 <!-- <iframe width="160" height="90" src="https://www.youtube.com/embed/QuGQKrjezdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 <!-- - November 2022: Paper accepted at CSCW 2023. [[Preprint](https://arxiv.org/abs/2211.16465)]  -->
 
