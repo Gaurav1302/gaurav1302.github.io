@@ -37,12 +37,12 @@
                   </span>
                 </p>
                 <p style="margin-bottom:5px; margin-top:0px; line-height:1.2"> 
-                  <span style="font-weight: 400; margin-bottom:0; margin-top:0px; font-size:12pt; color: black;">
+                  <span style="font-weight: 400; margin-bottom:0; margin-top:0px; font-size:12pt; color: rgb(40, 38, 38);">
                     {{ post.authors }}
                   </span>
                 </p>
                 <p style="margin-bottom:0; margin-top:0px; line-height: 0.9;"> 
-                  <span style="font-weight: 400; font-size:11pt; color: #333;">
+                  <span style="font-weight: 400; font-size:11pt; color: gray;">
                     {{ post.venue }}
                   </span>
                 </p>
@@ -58,11 +58,12 @@
                 </span>
               </p> -->
               {% if post.paper_link %}
-              <a href= "{{post.paper_link}}" target="_blank" style="text-decoration: none; font-size:10pt; margin-top: 0; margin-bottom:0px; color: #333;">
-                [<span style="color: #52adc8; text-decoration: none;">
-                  PDF
-                </span>]
-                <!-- <img src="http://gaurav1302.github.io/images/pdf.png" alt="PDF" height="25" width="20">&nbsp;<span>Get&nbsp;PDF</span> -->
+              <a href= "{{post.paper_link}}" target="_blank" style="text-decoration: none; font-size:11pt; margin-top: 5px; margin-bottom:0px; color: #333;">
+                <span style="color: #52adc8; text-decoration: none; background-color: white; border: 2px;">
+                  <img src="http://gaurav1302.github.io/images/pdf-icon.png" alt="PDF" height="25" width="20">&nbsp;<span>Get&nbsp;PDF</span>
+                </span>
+                <!-- <a class='pub-pdf-link' href="{{post.paper_link}}" target='_blank'><i class='fa fa-file-pdf-o'></i>Get PDF</a> -->
+                
               </a>
               <!-- &nbsp; -->
             {% endif %}
