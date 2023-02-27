@@ -117,6 +117,26 @@
                 <!-- <img src="http://gaurav1302.github.io/images/code.png" alt="CODE" height="17" width="25">&nbsp;<span>Get&nbsp;CODE</span> -->
               </a>
             {% endif %}
+            {% if post.project_page %}
+              <a href= "{{post.project_page}}" target="_blank" style="text-decoration: none; font-size:10pt; margin-bottom:0px; color: #333;">
+                <span style="
+                color: #52adc8; 
+                text-decoration: none; 
+                margin-right: 6px;
+                padding: 5px 12px;
+                background: rgba(0, 0, 0, 0.05);
+                border: 1px solid #ccc;
+                border-radius: 6px;
+                line-height: 46px;
+                white-space: nowrap;
+                color: #303030; 
+                ">
+                  Project Page
+                </span>
+                <!-- <img src="http://gaurav1302.github.io/images/doi.png" alt="DOI" height="25" width="25">&nbsp;<span>{{post.doi}}</span> -->
+              </a>
+              <!-- &nbsp; -->
+            {% endif %}
             <!-- {% if post.ppt %}
               <a href= "{{post.ppt}}" target="_blank" style="text-decoration: none; font-size:8pt; margin-bottom:0px; line-height:10px; color: #333;">
                 [<span style="color: #52adc8; text-decoration: underline;">
