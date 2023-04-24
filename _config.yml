@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-IN"
+locale                   : "en-US"
 title                    : "Gaurav Jain"
 title_separator          : "-"
 name                     : &name "Gaurav Jain"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gaurav Jain"
   avatar           : "gaurav.png"
-  bio              : "Human-Computer Interaction | Computer Vision | Deep-Learning | Accessibility"
+  bio              : "Human-Computer Interaction | Human-AI Systems | Accessibility | Computer Vision | Deep-Learning"
   location         : "New York, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
