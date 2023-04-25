@@ -17,7 +17,7 @@ Hi! I'm a third-year Ph.D. candidate in computer science at Columbia University.
 
 I build <strong>Human-AI systems</strong> that embed AI technologies (<i>e.g.,</i> computer vision) into new human interactions to solve accessibility problems. My research focuses on designing, developing, and evaluating systems that enable blind and low-vision (BLV) people to experience the world with more agency. 
 
-Using my systems, BLV people can visualize the action in sports broadcasts for themselves rather than relying on other people's descriptions ([ACM CHI EA 2023](https://dl.acm.org/doi/10.1145/3544549.3585610)). The system can automatically generates immersive audio representations of sports using computer vision. 
+Using my systems, BLV people can visualize the action in sports broadcasts for themselves rather than relying on other people's descriptions. The system automatically generates immersive audio representations of sports directly from source video broadcasts using computer vision ([ACM CHI EA 2023](https://dl.acm.org/doi/10.1145/3544549.3585610)). 
 
 To inform future systems, I also conduct in-depth qualitative studies that introduce new assistance paradigms. For instance, my qualitative study on BLV people's navigation proposed the concept of "exploration assistance systems," that grant BLV people the freedom and spontaneity to explore unfamiliar environments by themselves rather than being guided by turn-by-turn instructions to their destination ([ACM CSCW 2023](https://dl.acm.org/doi/10.1145/3579496?cid=99659562550)).
 
