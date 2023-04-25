@@ -26,11 +26,6 @@ Here's my [CV](http://gaurav1302.github.io/files/Gaurav_CV_PhD.pdf).
 
 
 
-## Research areas:
-
-Human-Computer Interaction, Human-AI Systems, Accessibility, Computer Vision, Deep Learning.
-
-
 ## Talks
 
 December 2022: "[Watching Videos Without Vision: Challenges, Techniques, and the Future of Video Accessibility](https://www.youtube.com/watch?v=QuGQKrjezdk)."
