@@ -11,8 +11,8 @@ date_format: "%b %-d, %Y"
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics: "G-HD72EG7XDK"
-google_tag_manager:
+google_analytics:
+google_tag_manager: "GT-PBGJQ2L"
 # Bing services
 bing_verification:
 
