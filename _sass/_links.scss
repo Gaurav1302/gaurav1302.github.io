@@ -18,7 +18,7 @@ a.uline-special {
 }
 
 a.uline-black {
-  color: black;
+  color: $blue;
   border-bottom: 1px solid #ccc;
 }
 
@@ -30,7 +30,7 @@ a.venue {
 
 a.paper_title{
   color: $blue;
-  font-size: 0.87em;
+  font-size: 0.82em;
   font-family: $heading-font-family;
   line-height: $heading-line-height;
 }
