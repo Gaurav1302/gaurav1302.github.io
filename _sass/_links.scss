@@ -4,6 +4,11 @@ a {
   text-shadow: white 1px 0px 0px, white -1px 0px 0px;
 }
 
+a.img {
+  color: none;
+  text-shadow: none;
+}
+
 a.uline {
   border-bottom: 1px solid #ccc;
 }
@@ -18,8 +23,19 @@ a.uline-black {
 }
 
 a.venue {
-  color: purple;
+  color: $dark-gray;
+  font-size: 0.9em;
+  border-bottom: 1px solid #ccc;
 }
+
+a.paper_title{
+  color: $blue;
+  font-size: 0.87em;
+  font-family: $heading-font-family;
+  line-height: $heading-line-height;
+}
+
+// a.
 
 a.uline:hover{
   border-bottom: 1px solid #ccc;
@@ -34,12 +50,19 @@ a:active {
   text-shadow: white 1px 0px 0px, white -1px 0px 0px;
 }
 
+
+a.btn{
+  font-size: 0.7em;
+  line-height: 1em;
+}
+
 // Correct issues with buttons
 button,
 .button {
   text-shadow: none;
   background-image: none;
 }
+
 
 .button:hover,
 .button:focus,

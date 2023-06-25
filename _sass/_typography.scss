@@ -14,13 +14,18 @@ p {
 }
 
 p.authors {
-  font-weight: 300;
+  color:#333;
+  font-size: 0.7em;
 }
 
 h1 {
     font-weight: 300;
     color: #1a1a1a;
 }
+
+// h5.paper_title {
+//   font-family: $heading-font-family;
+// }
 
 small,
 .small {
@@ -37,4 +42,37 @@ sup {
 
   font-size: 1.1em;
   font-weight: 500;
+}
+
+span.accept_rate{
+  color: gray; 
+  font-size: 0.72em;
+  margin-left: 2px;
+}
+
+span.me_author {
+  font-weight: 600;
+}
+
+span.co_author{
+  font-weight: 100;
+}
+
+p.venue {
+  margin-top: 10px;
+}
+
+span.venue_extras {
+  font-size: 0.9em;
+}
+
+span.eq {
+  color: $mid-gray;
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+img.social_icons {
+  cursor: pointer; width: auto; height: 23px;
+  margin-right: 4px;
 }
